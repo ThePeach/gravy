@@ -1,6 +1,6 @@
 {
   "name": "ThePeach/gravy",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "SASS foundation library.",
   "main": "sass/index.scss",
   "repository": {

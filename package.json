@@ -1,5 +1,5 @@
 {
-  "name": "@buildit/gravy",
+  "name": "ThePeach/gravy",
   "version": "2.1.1",
   "description": "SASS foundation library.",
   "main": "sass/index.scss",
